@@ -2,9 +2,11 @@
 
 1. [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
 2. [Name your NPCs](#aphorism-2)
-3. [Throw obstacles at your players](#aphorism-3)
+3. [Throw obstacles at your PCs](#aphorism-3)
 
 # Aphorism 1
+
+*For any conclusion you want the PCs to make, include at least three clues*
 
 [the alexandrian](http://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule)
 
@@ -21,11 +23,15 @@
 
 # Aphorism 2
 
+*Name your NPCs*
+
 [mattcolville](http://www.dndbeyond.com/forums/dungeons-dragons-discussion/dungeon-masters-only/846-tips-for-a-new-dm)
 
 > Make a list, right now, of male and female names, maybe 10 of each, that you think are appropriate to your setting. Clip it to your GM screen or whatever. Any time you need a name for an NPC, just grab the next one on the list. The goal here is to be able to make up an NPC and instantly know their name. The players will go places and meet people you haven't thought of and if you can say, at the drop of a hat, "The guard's name is Fandrick," it will seem to your players that these NPCs are real people who really exist and you're not just making it all up.
 
 # Aphorism 3
+
+*Throw obstacles at your PCs*
 
 [Laura Backes](http://www.writing-world.com/children/obstacles.shtml) (this piece of advice is for childrens' fiction, but it applies to DMing)
 
