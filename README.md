@@ -2,10 +2,11 @@
 
 1. [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
 2. [Name your NPCs](#aphorism-2)
+3. [Throw obstacles at your players](#aphorism-3)
 
 # Aphorism 1
 
-[the alexandrian](http://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule).
+[the alexandrian](http://thealexandrian.net/wordpress/1118/roleplaying-games/three-clue-rule)
 
 > Whenever you’re designing a mystery scenario, you should invariably follow the Three Clue Rule:
 > For any conclusion you want the PCs to make, include at least three clues.
@@ -24,3 +25,15 @@
 
 > Make a list, right now, of male and female names, maybe 10 of each, that you think are appropriate to your setting. Clip it to your GM screen or whatever. Any time you need a name for an NPC, just grab the next one on the list. The goal here is to be able to make up an NPC and instantly know their name. The players will go places and meet people you haven't thought of and if you can say, at the drop of a hat, "The guard's name is Fandrick," it will seem to your players that these NPCs are real people who really exist and you're not just making it all up.
 
+# Aphorism 3
+
+[Laura Backes](http://www.writing-world.com/children/obstacles.shtml) (this piece of advice is for childrens' fiction, but it applies to DMing)
+
+> But in order for a story to be really interesting, your character can't just think of a goal and then effortlessly reach it. As a writer, it's your job to throw obstacles in your character's way.
+> By developing obstacles that make sense, you add conflict and tension to the plot. If you progressively raise the stakes for your character throughout the story, you'll keep your readers turning pages to see what happens next.
+> The first obstacle your character will encounter is that of the critical situation. This is the point in the beginning of your story at which the character's life changes. Without this critical situation, the character's life would have gone on as before; but with it the character is forced to experience the story's events and challenges. This critical situation should relate directly to the character's goals, creating major shifts in the character's life.
+> Once you select the critical situation, get out your list of goals and select several that lend themselves to creating opportunities for relevant obstacles throughout the story. Some of these obstacles can be developed into sub-plots. For example:
+> - Does the character have to be somewhere at a specific time? Make him late, or make him miss the appointment altogether.
+> - Does the character need to find something? Make the search difficult or fruitless.
+> - Does the character need to communicate with someone? Have the note destroyed by weather, stolen by a bad guy or misinterpreted by the receiver.
+> - Does the character need to be alone? Make sure she's surrounded by people.
