@@ -3,6 +3,7 @@
 1. [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
 2. [Name your NPCs](#aphorism-2)
 3. [Throw obstacles at your PCs](#aphorism-3)
+4. [Appeal to all five of the senses](#aphorism-4)
 
 # Aphorism 1
 
@@ -43,3 +44,11 @@
 > - Does the character need to find something? Make the search difficult or fruitless.
 > - Does the character need to communicate with someone? Have the note destroyed by weather, stolen by a bad guy or misinterpreted by the receiver.
 > - Does the character need to be alone? Make sure she's surrounded by people.
+
+# Aphorism 4
+
+*Appeal to all five of the senses*
+
+[Goblins](http://goblinscomic.com/dungeon-master-tips)
+
+> Telling your players what their characters see around them is the bulk of what a DM does, but don’t forget to explain what their other senses are picking up as well. While you’re explaining the look of the buildings in the city that they just entered, maybe tell them how the city smells. If they’re in a vendor’s area, then you might explain the odour of spices and cooked meats floating through the air. If it’s a nasty side of town, then maybe the stink of urine is hanging about. If they’re creeping through a dank, dungeon hallway, then perhaps they can hear the echoed dripping of water coming from the shadows all around them. If a character wears gloves and the weather is warm, describe the sweaty feeling of the damp leather on his hands. Taped to the inside of my DM screen is a piece of paper that says “sight, smell, taste, touch, sound“. I keep it there to remind me to use whatever senses best fit the description. However, remember to keep you descriptions detailed, but short. Which reminds me…
