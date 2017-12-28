@@ -1,9 +1,15 @@
 # rpg-aphorisms
 
+# For Dungeon Masters
+
 1. [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
 2. [Name your NPCs](#aphorism-2)
 3. [Throw obstacles at your PCs](#aphorism-3)
 4. [Appeal to all five of the senses](#aphorism-4)
+
+# For Players
+
+5. [Avoid creating intra-character conflict](#aphorism-5)
 
 # Aphorism 1
 
@@ -52,3 +58,13 @@
 [Goblins](http://goblinscomic.com/dungeon-master-tips)
 
 > Telling your players what their characters see around them is the bulk of what a DM does, but don’t forget to explain what their other senses are picking up as well. While you’re explaining the look of the buildings in the city that they just entered, maybe tell them how the city smells. If they’re in a vendor’s area, then you might explain the odour of spices and cooked meats floating through the air. If it’s a nasty side of town, then maybe the stink of urine is hanging about. If they’re creeping through a dank, dungeon hallway, then perhaps they can hear the echoed dripping of water coming from the shadows all around them. If a character wears gloves and the weather is warm, describe the sweaty feeling of the damp leather on his hands. Taped to the inside of my DM screen is a piece of paper that says “sight, smell, taste, touch, sound“. I keep it there to remind me to use whatever senses best fit the description. However, remember to keep you descriptions detailed, but short. Which reminds me…
+
+# Aphorish 5
+
+*Avoid creating intra-character conflict*
+
+[Rich Burlew](http://www.giantitp.com/articles/tll307KmEm4H9k6efFP.html)
+
+> Here's another example: In a campaign I DM'd, the party's bard lifted a magical sword behind the back of the party's Lawful Good monk. The monk had basically decided that the bodies of several fallen knights would be buried without looting, and rather than argue, the bard just grabbed the sword. The bad news was, the sword was cursed; it was the blade that had belonged to a ghost that roamed the castle, and whenever the bard drew it, the ghost materialized and attacked him (and only him). Eventually, the bard 'fessed up that he had stolen the sword. The monk (and the monk's player) became furious, and declared that he could no longer travel with the bard. Either the bard had to leave, or he would. It became a huge argument between characters and players, and it was entirely unnecessary. The monk did not have to react with an ultimatum; the monk did not even have to be angry, no matter what his alignment was. The bard had already suffered the misfortune of having his Charisma drained by the ghost repeatedly; the monk could have chosen (for example) to lecture the bard on how his theft had brought him nothing but misery. He chose to create player conflict when it was just as easy to not.
+
+
