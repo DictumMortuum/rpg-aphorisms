@@ -10,6 +10,7 @@
 # For Players
 
 5. [Avoid creating intra-character conflict](#aphorism-5)
+6. [Avoid 'My guy' syndrome](#aphorism-6)
 
 # Aphorism 1
 
@@ -67,4 +68,11 @@
 
 > Here's another example: In a campaign I DM'd, the party's bard lifted a magical sword behind the back of the party's Lawful Good monk. The monk had basically decided that the bodies of several fallen knights would be buried without looting, and rather than argue, the bard just grabbed the sword. The bad news was, the sword was cursed; it was the blade that had belonged to a ghost that roamed the castle, and whenever the bard drew it, the ghost materialized and attacked him (and only him). Eventually, the bard 'fessed up that he had stolen the sword. The monk (and the monk's player) became furious, and declared that he could no longer travel with the bard. Either the bard had to leave, or he would. It became a huge argument between characters and players, and it was entirely unnecessary. The monk did not have to react with an ultimatum; the monk did not even have to be angry, no matter what his alignment was. The bard had already suffered the misfortune of having his Charisma drained by the ghost repeatedly; the monk could have chosen (for example) to lecture the bard on how his theft had brought him nothing but misery. He chose to create player conflict when it was just as easy to not.
 
+# Aphorism 6
+
+*Avoid 'my guy' syndrome*
+
+[Alex P](https://rpg.stackexchange.com/a/37105/2968)
+
+> "My Guy" syndrome is when — often unwittingly — you disclaim decision-making power and responsibility by acting like "what my character would do" is inevitable and inviolable, even if it gets in the way of actually having fun in the game or being able to play the game at all.
 
