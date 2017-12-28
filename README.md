@@ -59,7 +59,7 @@
 
 > Telling your players what their characters see around them is the bulk of what a DM does, but don’t forget to explain what their other senses are picking up as well. While you’re explaining the look of the buildings in the city that they just entered, maybe tell them how the city smells. If they’re in a vendor’s area, then you might explain the odour of spices and cooked meats floating through the air. If it’s a nasty side of town, then maybe the stink of urine is hanging about. If they’re creeping through a dank, dungeon hallway, then perhaps they can hear the echoed dripping of water coming from the shadows all around them. If a character wears gloves and the weather is warm, describe the sweaty feeling of the damp leather on his hands. Taped to the inside of my DM screen is a piece of paper that says “sight, smell, taste, touch, sound“. I keep it there to remind me to use whatever senses best fit the description. However, remember to keep you descriptions detailed, but short. Which reminds me…
 
-# Aphorish 5
+# Aphorism 5
 
 *Avoid creating intra-character conflict*
 
