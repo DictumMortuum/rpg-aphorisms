@@ -15,11 +15,17 @@
 - [Your stories should have a beginning, a middle and an end](#aphorism-7)
 - [Avoid breaking suspension of disbelief](#aphorism-8)
 - [Build a cast of ready made NPCs](#aphorism-9)
+- [Reuse NPCs when possible](#aphorism-10)
+- [Keep your players motivated](#aphorism-11)
+- [Thou shalt not afflict players with thine own awe-inspiring characters](#aphorism-12)
+- [Thou shalt not place thy plot above player wishes](#aphorism-13)
+- [Thou shalt not display preferential treatment](#aphorism-14)
 
 # For Players
 
 - [Avoid creating intra-character conflict](#aphorism-5)
 - [Avoid 'My guy' syndrome](#aphorism-6)
+- [Be open to cooperation](#aphorism-15)
 
 # Aphorism 1
 
@@ -97,7 +103,7 @@
 
 *Avoid breaking suspension of disbelief*
 
-[tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief)
+[tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief). Immersion is when the players' suspension of disbelief is at its strongest.
 
 > An author's work, in other words, does not have to be realistic, only believable and internally consistent (even the last requirement can be relieved to some extent). When the author pushes an audience beyond what they're willing to accept, the work fails in the eyes of that particular audience. As far as science fiction is concerned, viewers are usually willing to go along with creative explanations which is why people don't criticize your wormhole travel system or how a shrinking potion doesn't violate the laws of matter conservation, but even in the more fantastical genres, suspension of disbelief can be broken when a work breaks its own established laws or asks the audience to put up with too many things that come off as contrived.
 
@@ -114,6 +120,72 @@
 > When watching a movie you really like take a good look at a character you want to include in your campaign. Ask yourself the questions above. Try looking for mannerisms, facial expressions or phrases the character uses. Jot those down in a notebook until you have a few paragraphs about the character. Then, sit down and modify him to fit your game. Do this every time you see someone cool in a movie.
 
 > Before you know it you'll have an assortment of NPCs who can fill all sorts of different roles in your game. If you need a random innkeeper, mayor or stable master take a look at your notes and see if you've built a profile to match. In most cases you will, and if you don't you can often adapt a profile by changing it to match what you need.
+
+# Aphorism 10
+
+*Reuse NPCs when possible*
+
+[Katrina Ostrander](https://geekandsundry.com/how-to-integrate-character-backstories-into-rpg-campaigns/)
+
+> If your players sprinkled names or characters into their backstory, don’t let them fall to the wayside. Record their names and relationship, and refer back to them when it comes time to see who can help or hinder your group during a given task. As the players seek out shopkeepers, sources of information, or trainers over the course of the campaign, why create a new character when an existing NPC will do?
+
+# Aphorism 11
+
+*Keep your players motivated*
+
+[Chris Perkins](http://dnd.wizards.com/articles/features/whats-my-motivation)
+
+> Breathing life into a D&D player character is the player's job, but keeping the character motivated and relevant is something the DM and player hash out together. It's a little bit like developing a television character. In television, you hire an actor to become a character, and once an actor is comfortable wearing that character's skin, the character takes on a life of its own. However, when the character is being underserved or its purpose called into question, the actor will often turn to the show's writers for ideas. Working together, the writers and actor can find new and clever ways to tie the character into whatever else is happening in the show.
+
+# Aphorism 12
+
+*Thou shalt not afflict players with thine own awe-inspiring characters*
+
+[yandros](http://www.mit.edu/afs.new/sipb/user/yandros/rpg/gm-sins.txt)
+
+> Deadly Sin #1: Thou shalt not afflict players with thine own awe-inspiring characters. Don't send one of your own really kool characters with the PCs. Avoid the temptation!  Yes, yes, I know the PCs will sit in awe of the astounding skill levels and powers your totally kickbutt character has and that they will be thrilled by all the stories of the world shaking events the character has been involved with and they will be stunned by the astoundingly powerful array of magical artifacts the character has collected.  But give the PCs a chance to use their own pitiful skills, pathetic powers, and mundane equipment!
+
+> If lack of players or other reasons require extra party members, run them as background, an extra Intelligence check, or just another guy to go along.  Play them with character, but never allow them to make decisions that will affect the PC's.  This only happens when the PC's don't see a clue that is smack DAB in their faces. Also, NPCs are always last to get the new equipment.
+
+> Corollary to #1: Thou shalt not afflict players with awe inspiring omnipotent artifacts.  Never *ever* give the players that ever-so-cool magical item you created that has all those super powers and abilities and its intelligent and can kill deities in one stroke. Regardless of who you give it to, it is going to get hideously abused at some point. Give magic to match the characters.
+
+# Aphorism 13
+
+*Thou shalt not place thy plot above player wishes*
+
+[yandros](http://www.mit.edu/afs.new/sipb/user/yandros/rpg/gm-sins.txt)
+
+> Deadly Sin #9: Thou shalt not place thy plot above player wishes. Never let your precious, inflexible storyline screw up good characters. Nobody likes to be railroaded.
+
+> Railroading has gotten a bad name.  There are many games out there that advertise themselves as "storytelling" that often demand that the characters don't screw things up.  Killing the main bad guy in the first session is bad.  GMs just need to fudge things a little to "naturally" keep the plot on track.
+
+> The idea isn't that they don't HAVE free will, they do. They are just made aware of the risks involved in attempting it (and failing) are grave. They are quite free to make those 4 drive rolls you mention, and perhaps die in a fiery automobile crash, but it's up to them. Of course everyone knows that in REALITY they aren't going to do it.
+
+# Aphorism 14
+
+*Thou shalt not display preferential treatment*
+
+[yandros](http://www.mit.edu/afs.new/sipb/user/yandros/rpg/gm-sins.txt)
+
+> Deadly Sin #11: Thou shalt not display preferential treatment. Don't always pick out one member of the party and make the campaign center tightly around that person. Don't ignore efforts on the part of other players to carve out a niche for themselves in the campaign.
+
+> Whatever you do, don't ever display favoritism to anyone in your game!  I don't care if this is your girl/boyfriend, husband/wife, best friend from waaaay back JUST DON'T DO IT!  Nothing ticks off players more than a perceived bias on the GM's part for (or even against, if unjustified!) another player.  If you can't be impartial, for political reasons or otherwise, in your treatment of a specific player, don't invite that player to games involving other players. If you can't leave out the player (by virtue, say, of being married to him or her), don't run games. You'll lose your players in the end anyway, so what's the point?
+
+> Special corollary:  The above takes on critical importance if you find the player in question attractive.
+
+> Corollary to the corollary:  Exercise extreme caution if the player's significant other is also in the party.....
+
+# Aphorism 15
+
+*Be open to cooperation*
+
+[Alex](https://www.cherrypickedgames.com/role-playing/2015/9/25/problematic-players)
+
+> We’ve all played in a campaign with this character. They are the natural loner with distrust of authority, teams, and other people in general. At best, they are contrary to the game master’s characters and slow down story progression. At worst, they split off from the party to have their own exciting adventures, leaving the rest of the crew out of focus and bored. Unfortunately, this loner persona is an easy one to develop for players of all skill levels. The genre often promotes ideas of tragic backstories or segregation from normal society. These characters are interesting, but playing them is more challenging than it appears.
+
+> The problem is a lack of cooperation. Help this player build bonds with others. There’s a natural story arc of the loner character learning to care about and love their party. They become the family that never accepted them or they never had. It may seem clichéd, but it’s a sturdy plot development to continue character growth. This acceptance plays out differently each time. Whether the loner is saved by a fellow adventurer or the whole party is pitted against the world and not cooperating is suicide, the group can come to a nice harmony.
+
+> One of our regular Catalyst players, Jared, averts the Lone Wolf behavior well. The character of his that comes to mind is Dan, a gruff ex-soldier brimming with hate and frustration. Dan was stuck with two high school misfits (we made our characters independently…) and forced into the role of a competent leader. Rather than dismissing the obnoxious children around him, Jared decided to endow his character with parental instinct. No one else could whip Aiden and Bryawn into shape, so Dan reluctantly took them under his wing. Despite the repeated insults and death threats, he cared about them.
 
 # Definitions
 
