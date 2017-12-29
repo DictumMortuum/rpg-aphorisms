@@ -13,6 +13,7 @@
 - [Throw obstacles at your PCs](#aphorism-3)
 - [Appeal to all five of the senses](#aphorism-4)
 - [Your stories should have a beginning, a middle and an end](#aphorism-7)
+- [Avoid breaking suspension of disbelief](#aphorism-8)
 
 # For Players
 
@@ -91,6 +92,16 @@
 
 > Aristotle stated that the tragedy should imitate a whole action, which means that the events follow each other by probability or necessity, and that the causal chain has a beginning and an end. There is a knot, a central problem that the protagonist must face. The play has two parts: complication and unravelling. During complication, the protagonist finds trouble as the knot is revealed or tied; during unraveling, the knot is resolved.
 
+# Aphorism 8
+
+* Avoid breaking suspension of disbelief*
+
+[tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief)
+
+> An author's work, in other words, does not have to be realistic, only believable and internally consistent (even the last requirement can be relieved to some extent). When the author pushes an audience beyond what they're willing to accept, the work fails in the eyes of that particular audience. As far as science fiction is concerned, viewers are usually willing to go along with creative explanations which is why people don't criticize your wormhole travel system or how a shrinking potion doesn't violate the laws of matter conservation, but even in the more fantastical genres, suspension of disbelief can be broken when a work breaks its own established laws or asks the audience to put up with too many things that come off as contrived.
+
+> A common way of putting this is "You can ask an audience to believe the impossible, but not the improbable." For example, people will accept that the Grand Mage can teleport across the world, or that the spaceship has technology that makes it completely invisible without rendering its own sensors blind, but they won't accept that the ferocious carnivore just happened to have a heart attack and die right before it attacked the main character, or that the hacker guessed his enemy's password on the first try just by typing random letters, at least without some prior detail justifying it or one of the Rules listed below coming into play. What is in Real Life impossible just has to be made the norm in the setting and kept consistent.
+
 # Definitions
 
 ![plot vs story](https://upload.wikimedia.org/wikipedia/commons/1/11/Plot_v._story_en.png)
@@ -103,3 +114,6 @@ A narrative or story is a report of connected events, real or imaginary, present
 
 Plot refers to the sequence of events inside a story which affect other events through the principle of cause and effect. The causal events of a plot can be thought of as a series of sentences linked by "and so". Plots can vary from simple structures such as in a traditional ballad to complex interwoven structures sometimes referred to as an imbroglio. [wikipedia](https://en.wikipedia.org/wiki/Plot_(narrative))
 
+## Suspension of disbelief
+
+The term suspension of disbelief or willing suspension of disbelief has been defined as a willingness to suspend one's critical faculties and believe something surreal; sacrifice of realism and logic for the sake of enjoyment. [wikipedia](https://en.wikipedia.org/wiki/Suspension_of_disbelief)
