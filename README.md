@@ -95,7 +95,7 @@
 
 # Aphorism 8
 
-* Avoid breaking suspension of disbelief*
+*Avoid breaking suspension of disbelief*
 
 [tvtropes](http://tvtropes.org/pmwiki/pmwiki.php/Main/WillingSuspensionOfDisbelief)
 
