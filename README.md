@@ -1,5 +1,17 @@
 # rpg-aphorisms
 
+# Definitions
+
+![plot vs story](https://upload.wikimedia.org/wikipedia/commons/1/11/Plot_v._story_en.png)
+
+## Story
+
+A narrative or story is a report of connected events, real or imaginary, presented in a sequence of written or spoken words, or still or moving images, or both. [wikipedia](https://en.wikipedia.org/wiki/Narrative)
+
+## Plot
+
+Plot refers to the sequence of events inside a story which affect other events through the principle of cause and effect. The causal events of a plot can be thought of as a series of sentences linked by "and so". Plots can vary from simple structures such as in a traditional ballad to complex interwoven structures sometimes referred to as an imbroglio. [wikipedia](https://en.wikipedia.org/wiki/Plot_(narrative))
+
 # For Dungeon Masters
 
 - [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
