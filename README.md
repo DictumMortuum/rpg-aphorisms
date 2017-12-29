@@ -14,6 +14,7 @@
 - [Appeal to all five of the senses](#aphorism-4)
 - [Your stories should have a beginning, a middle and an end](#aphorism-7)
 - [Avoid breaking suspension of disbelief](#aphorism-8)
+- [Build a cast of ready made NPCs](#aphorism-9)
 
 # For Players
 
@@ -101,6 +102,18 @@
 > An author's work, in other words, does not have to be realistic, only believable and internally consistent (even the last requirement can be relieved to some extent). When the author pushes an audience beyond what they're willing to accept, the work fails in the eyes of that particular audience. As far as science fiction is concerned, viewers are usually willing to go along with creative explanations which is why people don't criticize your wormhole travel system or how a shrinking potion doesn't violate the laws of matter conservation, but even in the more fantastical genres, suspension of disbelief can be broken when a work breaks its own established laws or asks the audience to put up with too many things that come off as contrived.
 
 > A common way of putting this is "You can ask an audience to believe the impossible, but not the improbable." For example, people will accept that the Grand Mage can teleport across the world, or that the spaceship has technology that makes it completely invisible without rendering its own sensors blind, but they won't accept that the ferocious carnivore just happened to have a heart attack and die right before it attacked the main character, or that the hacker guessed his enemy's password on the first try just by typing random letters, at least without some prior detail justifying it or one of the Rules listed below coming into play. What is in Real Life impossible just has to be made the norm in the setting and kept consistent.
+
+# Aphorism 9
+
+*Build a cast of ready made NPCs*
+
+[Chris Fox](https://www.rpg.net/columns/evilgmfundamentals/evilgmfundamentals2.phtml)
+
+> This method is great, but what if your well of inspiration is feeling a little dry? In last month's article we covered an exercise to adapt scenes from your favorite movie or book into your campaign. You can do the same thing with characters, and if anything its even easier.
+
+> When watching a movie you really like take a good look at a character you want to include in your campaign. Ask yourself the questions above. Try looking for mannerisms, facial expressions or phrases the character uses. Jot those down in a notebook until you have a few paragraphs about the character. Then, sit down and modify him to fit your game. Do this every time you see someone cool in a movie.
+
+> Before you know it you'll have an assortment of NPCs who can fill all sorts of different roles in your game. If you need a random innkeeper, mayor or stable master take a look at your notes and see if you've built a profile to match. In most cases you will, and if you don't you can often adapt a profile by changing it to match what you need.
 
 # Definitions
 
