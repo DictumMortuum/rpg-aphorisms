@@ -6,6 +6,7 @@
 2. [Name your NPCs](#aphorism-2)
 3. [Throw obstacles at your PCs](#aphorism-3)
 4. [Appeal to all five of the senses](#aphorism-4)
+7. [Your stories should have a beginning, a middle and an end](#aphorism-7)
 
 # For Players
 
@@ -75,4 +76,12 @@
 [Alex P](https://rpg.stackexchange.com/a/37105/2968)
 
 > "My Guy" syndrome is when — often unwittingly — you disclaim decision-making power and responsibility by acting like "what my character would do" is inevitable and inviolable, even if it gets in the way of actually having fun in the game or being able to play the game at all.
+
+# Aphorism 7
+
+*Your stories should have a beginning, a middle and an end*
+
+[Aristotle](https://en.wikipedia.org/wiki/Dramatic_structure) This was written about the ancient tragedy, however the dramatic structure it describes can be applied to any story. Of course this is not to say that you should not improvise, but keep in mind that your stories and sideplots should have a feeling of completeness.
+
+> Aristotle stated that the tragedy should imitate a whole action, which means that the events follow each other by probability or necessity, and that the causal chain has a beginning and an end. There is a knot, a central problem that the protagonist must face. The play has two parts: complication and unravelling. During complication, the protagonist finds trouble as the knot is revealed or tied; during unraveling, the knot is resolved.
 
