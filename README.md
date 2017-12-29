@@ -1,5 +1,11 @@
 # rpg-aphorisms
 
+# Index
+
+- [Advice for dungeon masters](#for-dungeon-masters)
+- [Advice for players](#for-players)
+- [Definitions](#definitions)
+
 # For Dungeon Masters
 
 - [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
