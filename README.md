@@ -1,17 +1,5 @@
 # rpg-aphorisms
 
-# Definitions
-
-![plot vs story](https://upload.wikimedia.org/wikipedia/commons/1/11/Plot_v._story_en.png)
-
-## Story
-
-A narrative or story is a report of connected events, real or imaginary, presented in a sequence of written or spoken words, or still or moving images, or both. [wikipedia](https://en.wikipedia.org/wiki/Narrative)
-
-## Plot
-
-Plot refers to the sequence of events inside a story which affect other events through the principle of cause and effect. The causal events of a plot can be thought of as a series of sentences linked by "and so". Plots can vary from simple structures such as in a traditional ballad to complex interwoven structures sometimes referred to as an imbroglio. [wikipedia](https://en.wikipedia.org/wiki/Plot_(narrative))
-
 # For Dungeon Masters
 
 - [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
@@ -96,4 +84,16 @@ Plot refers to the sequence of events inside a story which affect other events t
 [Aristotle](https://en.wikipedia.org/wiki/Dramatic_structure) This was written about the ancient tragedy, however the dramatic structure it describes can be applied to any story. Of course this is not to say that you should not improvise, but keep in mind that your stories and sideplots should have a feeling of completeness.
 
 > Aristotle stated that the tragedy should imitate a whole action, which means that the events follow each other by probability or necessity, and that the causal chain has a beginning and an end. There is a knot, a central problem that the protagonist must face. The play has two parts: complication and unravelling. During complication, the protagonist finds trouble as the knot is revealed or tied; during unraveling, the knot is resolved.
+
+# Definitions
+
+![plot vs story](https://upload.wikimedia.org/wikipedia/commons/1/11/Plot_v._story_en.png)
+
+## Story
+
+A narrative or story is a report of connected events, real or imaginary, presented in a sequence of written or spoken words, or still or moving images, or both. [wikipedia](https://en.wikipedia.org/wiki/Narrative)
+
+## Plot
+
+Plot refers to the sequence of events inside a story which affect other events through the principle of cause and effect. The causal events of a plot can be thought of as a series of sentences linked by "and so". Plots can vary from simple structures such as in a traditional ballad to complex interwoven structures sometimes referred to as an imbroglio. [wikipedia](https://en.wikipedia.org/wiki/Plot_(narrative))
 
