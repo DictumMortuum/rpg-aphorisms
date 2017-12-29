@@ -2,16 +2,16 @@
 
 # For Dungeon Masters
 
-1. [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
-2. [Name your NPCs](#aphorism-2)
-3. [Throw obstacles at your PCs](#aphorism-3)
-4. [Appeal to all five of the senses](#aphorism-4)
-7. [Your stories should have a beginning, a middle and an end](#aphorism-7)
+- [For any conclusion you want the PCs to make, include at least three clues](#aphorism-1)
+- [Name your NPCs](#aphorism-2)
+- [Throw obstacles at your PCs](#aphorism-3)
+- [Appeal to all five of the senses](#aphorism-4)
+- [Your stories should have a beginning, a middle and an end](#aphorism-7)
 
 # For Players
 
-5. [Avoid creating intra-character conflict](#aphorism-5)
-6. [Avoid 'My guy' syndrome](#aphorism-6)
+- [Avoid creating intra-character conflict](#aphorism-5)
+- [Avoid 'My guy' syndrome](#aphorism-6)
 
 # Aphorism 1
 
