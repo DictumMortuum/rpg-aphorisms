@@ -20,7 +20,7 @@
 - [Thou shalt not afflict players with thine own awe-inspiring characters](#aphorism-12)
 - [Thou shalt not place thy plot above player wishes](#aphorism-13)
 - [Thou shalt not display preferential treatment](#aphorism-14)
-- [The seven basic plots](#aphorism-16)
+- [The seven basic plots ... plus two!](#aphorism-16)
 - [Morphology of the Folktale](#aphorism-17)
 - [The archetypal characters](#aphorism-18)
 
@@ -192,7 +192,7 @@
 
 # Aphorism 16
 
-*The seven basic plots*
+*The seven basic plots ... plus two!*
 
 [Christopher Booker](https://en.wikipedia.org/wiki/The_Seven_Basic_Plots)
 
@@ -200,17 +200,25 @@
 > The protagonist sets out to defeat an antagonistic force (often evil) which threatens the protagonist and/or protagonist's homeland.
 > Examples: Perseus, Theseus, Beowulf, Dracula, The War of the Worlds, Nicholas Nickleby, The Guns of Navarone, Seven Samurai and its Western-style remake The Magnificent Seven, the James Bond franchise, and Star Wars: A New Hope.[2]
 
+![overcoming the monster](img/overcomingthemonster.jpg)
+
 > **Rags to Riches**
 > The poor protagonist acquires things such as power, wealth, and a mate, before losing it all and gaining it back upon growing as a person.
 > Examples: Cinderella, Aladdin, Jane Eyre, A Little Princess, Great Expectations, David Copperfield, The Prince and the Pauper, Brewster's Millions.[2]
+
+![rags to riches](img/ragstoriches.jpg)
 
 > **The Quest**
 > The protagonist and some companions set out to acquire an important object or to get to a location, facing many obstacles and temptations along the way.
 > Examples: Odyssey, The Pilgrim’s Progress, King Solomon's Mines, Watership Down,[2] The Lord of the Rings, Harry Potter and the Deathly Hallows, The Land Before Time, One Piece, the Indiana Jones franchise, The Voyage of the Dawn Treader, Harold & Kumar Go To White Castle
 
+![the quest](img/quest.jpg)
+
 > **Voyage and Return**
 > The protagonist goes to a strange land and, after overcoming the threats it poses to him or her, returns with experience.
 > Examples: Odyssey, Ramayana, Alice in Wonderland, Goldilocks and the Three Bears, Orpheus, The Time Machine, Peter Rabbit, The Hobbit, Mad Max: Fury Road, Brideshead Revisited, The Rime of the Ancient Mariner, Gone with the Wind, The Third Man,[2] Chronicles of Narnia, Apollo 13, Labyrinth, Finding Nemo, Gulliver's Travels, Spirited Away, Uncharted, The Wizard of Oz. Back To The Future.
+
+![the voyage](img/voyage.jpg)
 
 > **Comedy**
 > Light and humorous character with a happy or cheerful ending; a dramatic work in which the central motif is the triumph over adverse circumstance, resulting in a successful or happy conclusion.[3] Booker makes sure to stress that comedy is more than humor. It refers to a pattern where the conflict becomes more and more confusing, but is at last made plain in a single clarifying event. Most romances fall into this category.
@@ -220,9 +228,22 @@
 > The protagonist is a hero with one major character flaw or great mistake which is ultimately their undoing. Their unfortunate end evokes pity at their folly and the fall of a fundamentally 'good' character.
 > Examples: Macbeth, The Picture of Dorian Gray, Carmen, Bonnie and Clyde, Jules et Jim, Anna Karenina, Madame Bovary, John Dillinger, Romeo and Juliet, Julius Caesar,[2] Death Note, Breaking Bad, Dirty Mary, Crazy Larry, Hamlet, Beowulf, The Room
 
+![the tragedy](img/tragedy.jpg)
+
 > **Rebirth**
 > During the course of the story, an important event forces the main character to change their ways, often making them a better person.
 > Examples: The Frog Prince, Beauty and the Beast, The Snow Queen, A Christmas Carol, The Secret Garden, Peer Gynt,[2] Life Is a Dream, Despicable Me, Machine Gun Preacher, Megamind, How the Grinch Stole Christmas
+
+![the rebirth](img/rebirth.jpg)
+
+> **Basic Plots Booker Dislikes...**
+> The last two basic plots are ones which Booker clearly sees as inferior, because they are less about the main character embracing his feminine side.
+
+> **Mystery**
+> First, he defines Mystery as a story in which an outsider to some horrendous event or drama (such as a murder) tries to discover the truth of what happened. Often what is being investigated in a Mystery is a story based on one of the other plots. Booker dislikes Mysteries because the detective or investigator has no personal connection to the characters he's interviewing or the crime he's investigating. Therefore, Booker argues, the detective has no inner conflict to resolve. This may be true many of Mysteries, including some by Sir Arthur Conan Doyle or Agatha Christie. However, in other Mystery stories the detective does have a personal stake in the plot, which gives rise to inner conflict – often a moral dilemma. Chinatown, is one example that springs to mind. So is Murder on the Orient Express and The Maltese Falcon (just to name some classics). Nonetheless, it is true that Mysteries often do not leave one with the sense that the world has been totally healed (after all, innocent victims are still dead). This sets it apart from most of the basic stories - with the exception perhaps of Tragedy.
+
+> **Rebellion Against 'The One'**
+> The last of Booker's basic plots, Rebellion Against 'The One' concerns a hero who rebels against the all-powerful entity that controls the world until he is forced to surrender to that power. The hero is a solitary figure who initially feels the One is at fault and that he must preserve his independence or refusal to submit. Eventually, he is faced with the One's awesome power and submits, becoming part of the rest of the world again. In some versions, the One is portrayed as benevolent, as in the story of Job, while in others the reader is left convinced it is malevolent, as in 1984 or Brazil. These darker versions seem to be what make Booker less than keen on this basic plot. Though Booker doesn't mention it, a common variation is to have the hero refuse to submit and essentially win against the power of the One. In The Prisoner, the hero eventually earns the right to discover that the One is a twisted version of himself, after which he is set free. In The Matrix, Neo's resistance eventually leads to a better world. Another example is The Hunger Games series, where Katniss's continued rebellion eventually leads to the downfall of both the original tyrant and his potential successor, resulting in a freer world.
 
 # Aphorism 17
 
