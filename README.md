@@ -22,6 +22,7 @@
 - [Thou shalt not display preferential treatment](#aphorism-14)
 - [The seven basic plots](#aphorism-16)
 - [Morphology of the Folktale](#aphorism-17)
+- [The archetypal characters](#aphorism-18)
 
 # For Players
 
@@ -261,6 +262,21 @@
 > 29. TRANSFIGURATION: The hero gains a new appearance. This may reflect aging and/or the benefits of labour and health, or it may constitute a magical remembering after a limb or digit was lost (as a part of the branding or from failing a trial). Regardless, it serves to improve their looks.
 > 30. PUNISHMENT: The villain suffers the consequences of their actions, perhaps at the hands of the hero, the avenged victims, or as a direct result of their own ploy.
 > 31. WEDDING: The hero marries and is rewarded or promoted by the family or community, typically ascending to a throne.
+
+# Aphorism 18
+
+*The archetypal characters*
+
+[Vladimir Propp](https://en.wikipedia.org/wiki/Vladimir_Propp)
+
+> It's also noted on the [mini-guide to structuralism](http://people.ds.cam.ac.uk/blf10/Links/structuralism.html) elsewhere on this server that Vladimir Propp's Morphology of the Folktale (1928) identified seven archetypal characters, which he called **actants**. These are:
+> - the villain
+> - the provider
+> - the helper
+> - the princess and her father
+> - the dispatcher
+> - the hero
+> - the false hero
 
 # Definitions
 
