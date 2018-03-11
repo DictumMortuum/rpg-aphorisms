@@ -20,6 +20,7 @@
 - [Thou shalt not afflict players with thine own awe-inspiring characters](#aphorism-12)
 - [Thou shalt not place thy plot above player wishes](#aphorism-13)
 - [Thou shalt not display preferential treatment](#aphorism-14)
+- [The seven basic plots](#aphorism-16)
 
 # For Players
 
@@ -186,6 +187,40 @@
 > The problem is a lack of cooperation. Help this player build bonds with others. There’s a natural story arc of the loner character learning to care about and love their party. They become the family that never accepted them or they never had. It may seem clichéd, but it’s a sturdy plot development to continue character growth. This acceptance plays out differently each time. Whether the loner is saved by a fellow adventurer or the whole party is pitted against the world and not cooperating is suicide, the group can come to a nice harmony.
 
 > One of our regular Catalyst players, Jared, averts the Lone Wolf behavior well. The character of his that comes to mind is Dan, a gruff ex-soldier brimming with hate and frustration. Dan was stuck with two high school misfits (we made our characters independently…) and forced into the role of a competent leader. Rather than dismissing the obnoxious children around him, Jared decided to endow his character with parental instinct. No one else could whip Aiden and Bryawn into shape, so Dan reluctantly took them under his wing. Despite the repeated insults and death threats, he cared about them.
+
+# Aphorism 16
+
+*The seven basic plots*
+
+[Christopher Booker](https://en.wikipedia.org/wiki/The_Seven_Basic_Plots)
+
+> **Overcoming the Monster**
+> The protagonist sets out to defeat an antagonistic force (often evil) which threatens the protagonist and/or protagonist's homeland.
+> Examples: Perseus, Theseus, Beowulf, Dracula, The War of the Worlds, Nicholas Nickleby, The Guns of Navarone, Seven Samurai and its Western-style remake The Magnificent Seven, the James Bond franchise, and Star Wars: A New Hope.[2]
+
+> **Rags to Riches**
+> The poor protagonist acquires things such as power, wealth, and a mate, before losing it all and gaining it back upon growing as a person.
+> Examples: Cinderella, Aladdin, Jane Eyre, A Little Princess, Great Expectations, David Copperfield, The Prince and the Pauper, Brewster's Millions.[2]
+
+> **The Quest**
+> The protagonist and some companions set out to acquire an important object or to get to a location, facing many obstacles and temptations along the way.
+> Examples: Odyssey, The Pilgrim’s Progress, King Solomon's Mines, Watership Down,[2] The Lord of the Rings, Harry Potter and the Deathly Hallows, The Land Before Time, One Piece, the Indiana Jones franchise, The Voyage of the Dawn Treader, Harold & Kumar Go To White Castle
+
+> **Voyage and Return**
+> The protagonist goes to a strange land and, after overcoming the threats it poses to him or her, returns with experience.
+> Examples: Odyssey, Ramayana, Alice in Wonderland, Goldilocks and the Three Bears, Orpheus, The Time Machine, Peter Rabbit, The Hobbit, Mad Max: Fury Road, Brideshead Revisited, The Rime of the Ancient Mariner, Gone with the Wind, The Third Man,[2] Chronicles of Narnia, Apollo 13, Labyrinth, Finding Nemo, Gulliver's Travels, Spirited Away, Uncharted, The Wizard of Oz. Back To The Future.
+
+> **Comedy**
+> Light and humorous character with a happy or cheerful ending; a dramatic work in which the central motif is the triumph over adverse circumstance, resulting in a successful or happy conclusion.[3] Booker makes sure to stress that comedy is more than humor. It refers to a pattern where the conflict becomes more and more confusing, but is at last made plain in a single clarifying event. Most romances fall into this category.
+> Examples: A Midsummer Night's Dream, Much Ado About Nothing, Twelfth Night, Bridget Jones's Diary, Music and Lyrics, Sliding Doors, Four Weddings and a Funeral, Mr. Bean
+
+> **Tragedy**
+> The protagonist is a hero with one major character flaw or great mistake which is ultimately their undoing. Their unfortunate end evokes pity at their folly and the fall of a fundamentally 'good' character.
+> Examples: Macbeth, The Picture of Dorian Gray, Carmen, Bonnie and Clyde, Jules et Jim, Anna Karenina, Madame Bovary, John Dillinger, Romeo and Juliet, Julius Caesar,[2] Death Note, Breaking Bad, Dirty Mary, Crazy Larry, Hamlet, Beowulf, The Room
+
+> **Rebirth**
+> During the course of the story, an important event forces the main character to change their ways, often making them a better person.
+> Examples: The Frog Prince, Beauty and the Beast, The Snow Queen, A Christmas Carol, The Secret Garden, Peer Gynt,[2] Life Is a Dream, Despicable Me, Machine Gun Preacher, Megamind, How the Grinch Stole Christmas
 
 # Definitions
 
