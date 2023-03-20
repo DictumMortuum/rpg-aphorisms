@@ -23,6 +23,7 @@
 - [The seven basic plots ... plus two!](#aphorism-16)
 - [Morphology of the Folktale](#aphorism-17)
 - [The archetypal characters](#aphorism-18)
+- [Story Structure 101: Super Basic Shit](#aphorism-19)
 
 # For Players
 
@@ -299,9 +300,40 @@
 > - the hero
 > - the false hero
 
+# Aphorism 19
+
+*Store structure 101: super basic shit*
+
+[Dan Harmon](https://channel101.fandom.com/wiki/Story_Structure_101:_Super_Basic_Shit)
+
+> Storytelling comes naturally to humans, but since we live in an unnatural world, we sometimes need a little help doing what we'd naturally do.
+
+> Draw a circle and divide it in half vertically.
+
+![BasicModelForStoryStructure](img/DanHarmon's_BasicModelForStoryStructure.webp)
+
+> Divide the circle again horizontally.
+
+> Starting from the 12 o clock position and going clockwise, number the 4 points where the lines cross the circle: 1, 3, 5 and 7.
+
+> Number the quarter-sections themselves 2, 4, 6 and 8.
+
+> Here we go, down and dirty:
+
+> - A character is in a zone of comfort,
+> - But they want something.
+> - They enter an unfamiliar situation,
+> - Adapt to it,
+> - Get what they wanted,
+> - Pay a heavy price for it,
+> - Then return to their familiar situation,
+> - Having changed.
+
+> Start thinking of as many of your favorite movies as you can, and see if they apply to this pattern. Now think of your favorite party anecdotes, your most vivid dreams, fairy tales, and listen to a popular song (the music, not necessarily the lyrics). Get used to the idea that stories follow that pattern of descent and return, diving and emerging. Demystify it. See it everywhere. Realize that it's hardwired into your nervous system, and trust that in a vacuum, raised by wolves, your stories would follow this pattern. 
+
 # Definitions
 
-![plot vs story](https://upload.wikimedia.org/wikipedia/commons/1/11/Plot_v._story_en.png)
+![plot vs story](img/1/11/Plot_v._story_en.png)
 
 ## Story
 
