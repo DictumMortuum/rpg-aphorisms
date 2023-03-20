@@ -333,7 +333,7 @@
 
 # Definitions
 
-![plot vs story](img/1/11/Plot_v._story_en.png)
+![plot vs story](img/Plot_v._story_en.png)
 
 ## Story
 
